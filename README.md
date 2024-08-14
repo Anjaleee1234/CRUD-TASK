@@ -5,6 +5,8 @@
 #Overview:
 This project demonstrates CRUD (Create, Read, Update, Delete) operations using JavaScript,React and MockAPI. It provides a simple and intuitive interface for managing data, and is designed to showcase the fundamental concepts of building interactive web applications with React.
 
+
+
 #Features:
 #Create: Add new items to the list.
 
@@ -13,6 +15,8 @@ This project demonstrates CRUD (Create, Read, Update, Delete) operations using J
 #Update: Edit existing items.
 
 #Delete: Remove items from the list.
+
+
 
 #Technologies Used:
 
@@ -23,6 +27,7 @@ This project demonstrates CRUD (Create, Read, Update, Delete) operations using J
 #MockAPI: It allows you to perform CRUD perations without needing a fully functional backend.
 
 #HTML/CSS: For structure and styling.
+
 
 
 #Getting Started
