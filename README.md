@@ -55,8 +55,11 @@ npm start
 This will start the application and you can view it in your browser at http://localhost:3000.
 
 #Code Structure Must Be Like:
+
 #src/components/: Contains React components for the CRUD operations.
+
 #src/api/: Contains functions for handling API requests (if applicable).
+
 #src/App.js: The main entry point of the application.
 
 #Contributing
