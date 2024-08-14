@@ -7,14 +7,21 @@ This project demonstrates CRUD (Create, Read, Update, Delete) operations using J
 
 #Features
 #Create: Add new items to the list.
+
 #Read: View all items with details.
+
 #Update: Edit existing items.
+
 #Delete: Remove items from the list.
 
 #Technologies Used
+
 #JavaScript: For core functionality and logic.
+
 #React: For building the user interface.
+
 #MockAPI: It allows you to perform CRUD perations without needing a fully functional backend.
+
 #HTML/CSS: For structure and styling.
 
 
