@@ -1,6 +1,6 @@
 # CRUD-TASK
 
-#CRUD Operations with JavaScript and React:
+#CRUD Operations Using ReactJS:
 
 #Overview:
 This project demonstrates CRUD (Create, Read, Update, Delete) operations using JavaScript,React and MockAPI. It provides a simple and intuitive interface for managing data, and is designed to showcase the fundamental concepts of building interactive web applications with React.
@@ -24,7 +24,7 @@ This project demonstrates CRUD (Create, Read, Update, Delete) operations using J
 
 #React: For building the user interface.
 
-#MockAPI: It allows you to perform CRUD perations without needing a fully functional backend.
+#MockAPI: It allows you to perform CRUD Operations without needing a fully functional backend.
 
 #HTML/CSS: For structure and styling.
 
